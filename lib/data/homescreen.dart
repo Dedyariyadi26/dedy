@@ -56,8 +56,7 @@ class home extends StatelessWidget {
                                   width: 30,
                                   height: 30,
                                   child: Icon(Icons.favorite)),
-                              onTap: () {
-                              },
+                              onTap: () {},
                             ),
                           ),
                         )
